@@ -18,4 +18,4 @@ categories: Machine Learning
 ### Model and Cost Function
 1. Cost Function:
 
-![Cost Function](/_assets/cost_function.png)
+![Cost Function]({{ site.url }}/assets/cost_function.png)

@@ -40,4 +40,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-site_url: https://github.com/zhejingxu/zhejingxu.github.io/blob/master
+# default: site.url: zhejingxu.github.io
