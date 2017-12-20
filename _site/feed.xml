@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-12-20T22:28:33+08:00</updated><id>/</id><title type="html">Coding Girl</title><subtitle>坚持记录学习和工作的点点滴滴，不积跬步无以至千里。</subtitle><entry><title type="html">Coursera ML Learning Notes</title><link href="/machine/learning/2017/12/19/coursera-ml-notes-w1.html" rel="alternate" type="text/html" title="Coursera ML Learning Notes" /><published>2017-12-19T23:06:11+08:00</published><updated>2017-12-19T23:06:11+08:00</updated><id>/machine/learning/2017/12/19/coursera-ml-notes-w1</id><content type="html" xml:base="/machine/learning/2017/12/19/coursera-ml-notes-w1.html">&lt;h2 id=&quot;first-week&quot;&gt;First Week&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-12-20T22:36:20+08:00</updated><id>/</id><title type="html">Coding Girl</title><subtitle>坚持记录学习和工作的点点滴滴，不积跬步无以至千里。</subtitle><entry><title type="html">Coursera ML Learning Notes</title><link href="/machine/learning/2017/12/19/coursera-ml-notes-w1.html" rel="alternate" type="text/html" title="Coursera ML Learning Notes" /><published>2017-12-19T23:06:11+08:00</published><updated>2017-12-19T23:06:11+08:00</updated><id>/machine/learning/2017/12/19/coursera-ml-notes-w1</id><content type="html" xml:base="/machine/learning/2017/12/19/coursera-ml-notes-w1.html">&lt;h2 id=&quot;first-week&quot;&gt;First Week&lt;/h2&gt;
 
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
 &lt;ol&gt;
@@ -19,5 +19,5 @@
 &lt;h3 id=&quot;model-and-cost-function&quot;&gt;Model and Cost Function&lt;/h3&gt;
 &lt;ol&gt;
   &lt;li&gt;Cost Function:
-&lt;a href=&quot;https://github.com/zhejingxu/zhejingxu.github.io/blob/master/_pics/cost_function.png&quot;&gt;Cost Function&lt;/a&gt;&lt;/li&gt;
+&lt;img src=&quot;/_assets/cost_function.png&quot; alt=&quot;Cost Function&quot; /&gt;&lt;/li&gt;
 &lt;/ol&gt;</content><author><name></name></author><summary type="html">First Week</summary></entry></feed>
