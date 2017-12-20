@@ -17,4 +17,5 @@ categories: Machine Learning
 
 ### Model and Cost Function
 1. Cost Function:
+
 ![Cost Function](/_assets/cost_function.png)
