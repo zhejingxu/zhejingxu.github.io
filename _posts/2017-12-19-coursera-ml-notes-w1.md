@@ -17,4 +17,4 @@ categories: Machine Learning
 
 ### Model and Cost Function
 1. Cost Function:
-![Cost Function](https://github.com/zhejingxu/zhejingxu.github.io/tree/master/_pics/cost_function.png)
+[Cost Function](../_pics/cost_function.png)
