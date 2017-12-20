@@ -11,10 +11,10 @@ categories: Machine Learning
 1. Supervised Learning: Given a data set and correct output, find the relationship between the intput and output.
   * Regression: Predict results within a continuous output
   * Classification: Predict results in a discrete output
-2. Unsupervised Learning: Derive the structure from data and no feedback based on prediciton results.
+2. Unsupervised Learning: Derive the structure from data, no feedback based on prediciton results.
   * Clustering: Find a way to automatically group the data
   * Non-clustering: "Cocktail Party Algorithm"
 
 ### Model and Cost Function
 1. Cost Function:
-[Cost Function](../_pics/cost_function.png)
+[Cost Function](https://github.com/zhejingxu/zhejingxu.github.io/blob/master/_pics/cost_function.png)
